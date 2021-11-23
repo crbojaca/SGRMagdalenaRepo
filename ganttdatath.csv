@@ -1,29 +1,29 @@
 wp,activity,start_date,end_date
-Contratado,IA7,1,14
-En proceso,IA2,4,15
-En proceso,IA8,4,17
-En proceso,IA10,4,15
-En proceso,IA14,4,18
-En proceso,IA15,4,18
-En proceso,IA19,4,18
-Por contratar,IA1,3,8
-Por contratar,IA22,5,19
-Por contratar,IA25,5,12
-Por contratar,IA4,6,22
-Por contratar,IA5,6,22
-Por contratar,IA6,6,22
-Por contratar,IA13,6,22
-Por contratar,IA28,6,13
-Por contratar,IA11,7,23
-Por contratar,IA12,7,23
-Por contratar,IA21,7,21
-Por contratar,IA23,7,20
-Por contratar,IA27,7,14
-Por contratar,IA3,8,13
-Por contratar,IA9,8,13
-Por contratar,IA16,10,23
-Por contratar,IA17,10,23
-Por contratar,IA18,10,23
-Por contratar,IA20,10,23
-Por contratar,IA26,12,19
-Por contratar,IA24,13,20
+Contratado,IA7 - ECONOMIA,1,14
+En proceso,IA2 - ENERGIA,4,15
+En proceso,IA8 - ECONOMIA,4,17
+En proceso,IA10 - ENERGIA,4,15
+En proceso,IA14 - AGRONOMIA,4,18
+En proceso,IA15 - ECONOMIA,4,18
+En proceso,IA19 - TRANSFERENCIA,4,18
+Por contratar,IA1 - AGRONOMIA,3,8
+Por contratar,IA22 - AGRONOMIA,5,19
+Por contratar,IA25 - ECONOMIA,5,12
+Por contratar,IA4 - AGRONOMIA,6,22
+Por contratar,IA5 - AGRONOMIA,6,22
+Por contratar,IA6 - AGRONOMIA,6,22
+Por contratar,IA13 - AGRONOMIA,6,22
+Por contratar,IA28 - POR DEFINIR,6,13
+Por contratar,IA11 - AGRONOMIA,7,23
+Por contratar,IA12 - AGRONOMIA,7,23
+Por contratar,IA21 - AGRONOMIA,7,21
+Por contratar,IA23 - AGRONOMIA,7,20
+Por contratar,IA27 - AGRONOMIA,7,14
+Por contratar,IA3 - AGRONOMIA,8,13
+Por contratar,IA9 - ENERGIA,8,13
+Por contratar,IA16 - ECONOMIA,10,23
+Por contratar,IA17 - ECONOMIA,10,23
+Por contratar,IA18 - ECONOMIA,10,23
+Por contratar,IA20 - ECONOMIA,10,23
+Por contratar,IA26 - ECONOMIA,12,19
+Por contratar,IA24 - POR DEFINIR,13,20
