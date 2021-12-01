@@ -1,28 +1,28 @@
-wp,activity,start_date,end_date
-1 - Diseno modelos estrategias,1. Convocatoria beneficiarios,1,2
-1 - Diseno modelos estrategias,2. Determinar atributos producto,1,14
-1 - Diseno modelos estrategias,3. Elaborar mapa de procesos,4,17
-1 - Diseno modelos estrategias,4. Parametrizacion produccion,4,23
-1 - Diseno modelos estrategias,5. Establecer actores clave,7,23
-1 - Diseno modelos estrategias,6. Analisis actores,4,23
-1 - Diseno modelos estrategias,7. Identificar estandares,4,23
-1 - Diseno modelos estrategias,8. Construir modelo organizacion,4,23
-1 - Diseno modelos estrategias,9. Establecer sostenibilidad modelo,7,20
-1 - Diseno modelos estrategias,10. Evaluar potenciales solares,4,15
-1 - Diseno modelos estrategias,11. Evaluar demanda sistemas integrados,4,15
-2 - Implementacion Sistemas Productivos,12. Diseno invernaderos,3,8
-2 - Implementacion Sistemas Productivos,13. Establecimiento invernaderos,4,10
-2 - Implementacion Sistemas Productivos,14. Diseno sistemas riego,8,13
-2 - Implementacion Sistemas Productivos,15. Establecimiento sistemas riego,9,12
-2 - Implementacion Sistemas Productivos,16. Establecimiento suministro energia,6,11
-2 - Implementacion Sistemas Productivos,17. Establecimiento mantenimiento cultivos,10,22
-2 - Implementacion Sistemas Productivos,18. Instalacion operacion cuarto frio,7,14
-2 - Implementacion Sistemas Productivos,19. Diseno soluciones alternativas micro-redes,6,11
-2 - Implementacion Sistemas Productivos,20. Renovacion cubierta invernaderos,19,23
+﻿wp,activity,start_date,end_date
+1 - Diseño modelos estrategias,1. Convocatoria beneficiarios,1,2
+1 - Diseño modelos estrategias,2. Determinar atributos producto,1,14
+1 - Diseño modelos estrategias,3. Elaborar mapa de procesos,4,17
+1 - Diseño modelos estrategias,4. Parametrización producción,4,23
+1 - Diseño modelos estrategias,5. Establecer actores clave,7,23
+1 - Diseño modelos estrategias,6. Análisis actores,4,23
+1 - Diseño modelos estrategias,7. Identificar estándares,4,23
+1 - Diseño modelos estrategias,8. Construir modelo organización,4,23
+1 - Diseño modelos estrategias,9. Establecer sostenibilidad modelo,7,20
+1 - Diseño modelos estrategias,10. Evaluar potenciales solares,4,15
+1 - Diseño modelos estrategias,11. Evaluar demanda sistemas integrados,4,15
+2 - Implementación Sistemas Productivos,12. Diseño invernaderos,3,8
+2 - Implementación Sistemas Productivos,13. Establecimiento invernaderos,4,10
+2 - Implementación Sistemas Productivos,14. Diseño sistemas riego,8,13
+2 - Implementación Sistemas Productivos,15. Establecimiento sistemas riego,9,12
+2 - Implementación Sistemas Productivos,16. Establecimiento suministro energía,6,11
+2 - Implementación Sistemas Productivos,17. Establecimiento mantenimiento cultivos,10,22
+2 - Implementación Sistemas Productivos,18. Instalación operación cuarto frío,7,14
+2 - Implementación Sistemas Productivos,19. Diseño soluciones alternativas micro-redes,6,11
+2 - Implementación Sistemas Productivos,20. Renovación cubierta invernaderos,19,23
 3 - Transferencia de Conocimiento,21. Desarrollo talleres participativos,2,6
-3 - Transferencia de Conocimiento,22. Curso produccion horticola,5,22
+3 - Transferencia de Conocimiento,22. Curso producción hortícola,5,22
 3 - Transferencia de Conocimiento,23. Modelos de negocio,1,22
 3 - Transferencia de Conocimiento,24. Estrategias de mercadeo,1,22
-3 - Transferencia de Conocimiento,25. Acompanar reorientacion productiva,11,23
-3 - Transferencia de Conocimiento,26. Administracion del proyecto,1,24
-3 - Transferencia de Conocimiento,27. Supervision del proyecto,1,24
+3 - Transferencia de Conocimiento,25. Acompañar reorientación productiva,11,23
+3 - Transferencia de Conocimiento,26. Administración del proyecto,1,24
+3 - Transferencia de Conocimiento,27. Supervisión del proyecto,1,24
